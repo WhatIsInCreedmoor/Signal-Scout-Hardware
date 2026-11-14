@@ -10,10 +10,10 @@ Designed as an ultra-compact "plug-and-forget" sensor that mounts directly to a 
 
 | Component | Description | Link |
 | :--- | :--- | :--- |
-| **Microcontroller** | Seeed Studio XIAO ESP32 variant (`XIAO ESP32C3`, `XIAO ESP32C5`, `XIAO ESP32C6`, or `XIAO ESP32S3`) | [Seeed Studio](https://www.seeedstudio.com/) |
-| **Power Brick** | Low-profile USB-A Wall Charger | Amazon: https://www.amazon.com/dp/B097XM25PL |
+| **Microcontroller** | Seeed Studio XIAO ESP32 variant (`ESP32C3`, `ESP32C5`, `ESP32C6`, or `ESP32S3`) | Seeed Studio: https://www.seeedstudio.com/ESP32-Series-c-2580.html |
+| **Power Brick** | USB-A Wall Charger | Amazon: https://www.amazon.com/dp/B097XM25PL |
 | **USB Adapter** | USB-A to USB-C Adapter | Amazon: https://www.amazon.com/dp/B0F7XVL3S7 |
-| **Antenna** | Standard Seeed A-01 Wi-Fi/BT Antenna | Seeed Studios: https://www.seeedstudio.com/FPC-Antenna-A-01-for-XIAO-ESP32C3-C5-p-6439.html |
+| **Antenna** | Standard Seeed A-01 Wi-Fi/BT Antenna | Seeed Studio: https://www.seeedstudio.com/FPC-Antenna-A-01-for-XIAO-ESP32C3-C5-p-6439.html |
 
 ---
 
